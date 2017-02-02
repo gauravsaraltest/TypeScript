@@ -19,7 +19,7 @@ npm install -g typescript
 For our nightly builds:
 
 ```
-npm install -g typescript@next
+npm install -g typescript@next1
 ```
 
 ## Contribute
