@@ -13,7 +13,7 @@
 For the latest stable version:
 
 ```
-npm install -g typescript  lala land
+npm install -g typescript  raeees
 ```
 
 For our nightly builds:
